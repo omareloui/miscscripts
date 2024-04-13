@@ -3,5 +3,10 @@
   "version": "1.0.0",
   "description": "A collection of maximum one files scripts.",
   "author": "Omar Eloui <contact@omareloui.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.0.0",
+    "eslint": "^9.0.0",
+    "globals": "^15.0.0"
+  }
 }
